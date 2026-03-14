@@ -28,6 +28,8 @@
 
 **Security:** Never share API keys; strictly manage sub-agent access.
 
+**Business Ops:** Track two parallel tracks — HomeBeacon (validated, building) and new product exploration (tarot MVP shipped 2026-03-13). Evaluate ideas by: market gap + monetization clarity + scope fit for one-time build.
+
 ## Boundaries
 
 - Private things stay private. Period.
